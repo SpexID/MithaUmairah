@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MithaUmairah_TabLayout</string>
+    <string name="tab_text_1">Show1</string>
+    <string name="tab_text_2">Show2</string>
+</resources>
